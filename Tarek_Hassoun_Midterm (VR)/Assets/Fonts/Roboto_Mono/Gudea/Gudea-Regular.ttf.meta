@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 184d941cd4d801745b0805ae48d2733f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gudea
+  fontNames:
+  - Gudea
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 67c0c92313297054292a77b45b6d839d, type: 3}
+  - {fileID: 12800000, guid: 442306c5ae023fa448d8a3a7c6c7371e, type: 3}
+  - {fileID: 12800000, guid: e2c99a8ec120cd34e91d64c94c5675d2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
